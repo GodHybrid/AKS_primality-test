@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2017\Projects\AKS_wf\AKS_algorithm\bin\Debug\AKS_algorithm.exe.config
+c:\users\user\documents\visual studio 2017\Projects\AKS_wf\AKS_algorithm\bin\Debug\AKS_algorithm.exe
+c:\users\user\documents\visual studio 2017\Projects\AKS_wf\AKS_algorithm\bin\Debug\AKS_algorithm.pdb
+c:\users\user\documents\visual studio 2017\Projects\AKS_wf\AKS_algorithm\obj\Debug\AKS_algorithm.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\AKS_wf\AKS_algorithm\obj\Debug\AKS_algorithm.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\AKS_wf\AKS_algorithm\obj\Debug\AKS_algorithm.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\AKS_wf\AKS_algorithm\obj\Debug\AKS_algorithm.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\AKS_wf\AKS_algorithm\obj\Debug\AKS_algorithm.exe
+c:\users\user\documents\visual studio 2017\Projects\AKS_wf\AKS_algorithm\obj\Debug\AKS_algorithm.pdb
