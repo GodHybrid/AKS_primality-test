@@ -6,9 +6,9 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 
 ## Items
 
--Items are crafted by hand at high price or found in specific mod-related chests and lockboxes.
--All items are consumable and provide permanent buffs or boosts to the character.
--Items have a specific amount of various ingredients to craft with: common - 4 ingredients, uncommon - 6, rare - 8.
+- Items are crafted by hand at high price or found in specific mod-related chests and lockboxes.
+- All items are consumable and provide permanent buffs or boosts to the character.
+- Items have a specific amount of various ingredients to craft with: common - 4 ingredients, uncommon - 6, rare - 8.
 
 #### Common items
 ###### Offensive items
