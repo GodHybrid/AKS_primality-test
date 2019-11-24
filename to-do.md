@@ -1,17 +1,17 @@
-#RISK OF SLIME RAIN
+# RISK OF SLIME RAIN
 
 Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platformer into the world of Terraria. 
 
 *[x][ ] The first checkmark shows if the item has been coded correctly and if it works as intended. The second checkmark shows if the graphical effects has been coded properly and if they work as intended.*
 
-##Items
+## Items
 
 -Items are crafted by hand at high price or found in specific mod-related chests and lockboxes.
 -All items are consumable and provide permanent buffs or boosts to the character.
 -Items have a specific amount of various ingredients to craft with: common - 4 ingredients, uncommon - 6, rare - 8.
 
-####Common items
-######Offensive items
+#### Common items
+###### Offensive items
 * [x][ ]Barbed Wire
 * [x][ ]Crowbar
 * [x][ ]Gasoline
@@ -21,7 +21,7 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [x][ ]Sticky Bomb
 * [ ][ ]Bundle of Fireworks
 
-######Defensive items
+###### Defensive items
 * [x][ ]Bitter Root
 * [x][ ]Bustling Fungus
 * [x][x]Meat Nugget
@@ -30,7 +30,7 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [x][ ]Mysterious Vial
 * [x][ ]Sprouting Egg
 
-######Utility items
+###### Utility items
 * [x][x]Fire Shield
 * [x][x]Hermit's Scarf
 * [x][ ]Lens Maker's Glasses
@@ -42,8 +42,8 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][x]Warbanner
 * [x][ ]Taser
 
-####Uncommon items
-######Offensive items
+#### Uncommon items
+###### Offensive items
 * [ ][ ]Golden Gun
 * [ ][ ]AtG Missile Mk.1
 * [ ][ ]Boxing Gloves
@@ -54,7 +54,7 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][ ]Ukulele
 * [ ][ ]Frost Relic
 
-######Defensive items
+###### Defensive items
 * [ ][ ]Leeching Seed
 * [ ][ ]Infusion
 * [ ][ ]Harvester's Scythe
@@ -63,7 +63,7 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][ ]Panic Mines
 * [ ][ ]Tough Times
 
-######Utility items
+###### Utility items
 * [ ][ ]Hopoo Feather
 * [ ][ ]56 Leaf Clover
 * [ ][ ]Arms Race
@@ -76,8 +76,8 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][ ]Prison Shackles
 * [ ][ ]Time Keeper's Secret
 
-####Rare items
-######Offensive items
+#### Rare items
+###### Offensive items
 * [ ][ ]Hyper-Threader
 * [ ][ ]Heaven Cracker
 * [ ][ ]Fireman's Boots
@@ -92,13 +92,13 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][ ]Thallium
 * [ ][ ]Laser Turbine
 
-######Defensive items
+###### Defensive items
 * [ ][ ]Dio's Best Friend
 * [ ][ ]Repulsion Armor
 * [ ][ ]Interstellar Desk Plant
 * [ ][ ]White Undershirt (M)
 
-######Utility items
+###### Utility items
 * [ ][ ]Old Box
 * [ ][ ]Happiest Mask
 * [ ][ ]Ancient Scepter
@@ -111,19 +111,19 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][ ]Wicked Ring
 * [ ][ ]Keycard
 
-####Boss items
-######Offensive items
+#### Boss items
+###### Offensive items
 * [ ][ ]Ifrit's Horn
 * [ ][ ]Burning Witness
 * [ ][ ]Legendary Spark
 
-######Defensive items
+###### Defensive items
 * [ ][ ]Colossal Knurl
 
-######Utility items
+###### Utility items
 * [ ][ ]Imp Overlord's Tentacle
 
-####Usable items
+#### Usable items
 * [ ][ ]Gigantic Amethyst
 * [ ][ ]Thqwib
 * [ ][ ]Captain's Brooch
@@ -152,7 +152,7 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][ ]The Back-Up
 * [ ][ ]Unstable Watch
 
-####Other items
+#### Other items
 * [x][x]Uncovered Chest
 * [ ][x]Salvaged Chest
 * [ ][ ]Regal Chest
@@ -161,8 +161,8 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][ ]Rare Item Lockbox
 * [ ][ ]Small Enigma
 
-##NPC
-####Minions/Drones
+## NPC
+#### Minions/Drones
 * [ ][ ]Basic Drone
 * [ ][ ]Attack Drone
 * [ ][ ]Healing Drone
@@ -171,7 +171,7 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][ ]Missile Drone
 * [ ][ ]Advanced Healing Drone
 
-####Town/Wandering NPC 
+#### Town/Wandering NPC 
 * [ ][ ]Acrid
 * [ ][ ]Bandit
 * [ ][ ]Chef
@@ -185,7 +185,7 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][ ]Miner
 * [ ][ ]Sniper
 
-####Enemy NPC
+#### Enemy NPC
 * [ ][ ]Lemurian
 * [ ][ ]Rock Golem
 * [ ][ ]Wisp
@@ -212,7 +212,7 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][ ]Archaic Wisp
 * [ ][ ]Purple Imp
 
-####Bosses
+#### Bosses
 * [ ][ ]Colossus
 * [ ][ ]Wandering Vagrant
 * [ ][ ]Magma Worm
@@ -225,7 +225,7 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][ ]Providence
 * [ ][ ]Gilded Wurms
 
-##Artifacts
+## Artifacts
 * [ ][ ]Honor
 * [ ][ ]Kin
 * [ ][ ]Distortion
@@ -237,7 +237,7 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 * [ ][ ]Spirit
 * [ ][ ]Origin
 
-##Biomes
+## Biomes
 
 -The biomes are a part of the map it's based off of. Example: long lava pool with metallic platforms attached to chains - Magma Barracks.
 -Map-exclusive enemies and bosses will have a much higher spawn-rate in their correspondent biome. In every other biome the chances are 0.01%.
