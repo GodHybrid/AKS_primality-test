@@ -6,18 +6,18 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 
 ## Items
 
->Items are crafted by hand at high price or found in specific mod-related chests and lockboxes.
->All items are consumable and provide permanent buffs or boosts to the character.
->Items have a specific amount of various ingredients to craft with: common - 4 ingredients, uncommon - 6, rare - 8.
->Usable items are not craftable (found in chests? Rare drop? There should definitely be a limit on how many a player can carry. Use time limitation can be a debuff akin to Potion Sickness)
+-Items are crafted by hand at high price or found in specific mod-related chests and lockboxes.\
+-All items are consumable and provide permanent buffs or boosts to the character.\
+-Items have a specific amount of various ingredients to craft with: common - 4 ingredients, uncommon - 6, rare - 8.\
+-Usable items are not craftable (found in chests? Rare drop? There should definitely be a limit on how many a player can carry. Use time limitation can be a debuff akin to Potion Sickness)\
 
 **All items need their sprites/effects redrawn/resized to fit Terraria's aesthetic**
 
 #### Common items
 ###### Offensive items
-* [x][x]Barbed Wire - encircles the player in a small, grey, jagged circle, damaging enemies who come within. If several enemies are within range, only one of them will receive the damage.
-		* Damage scales properly. Only one enemy receives damage at a time.
-		* Wire sprite draws correctly. *The circle that depicts radius of effect is missing and has to be added.*
+* [x][x]Barbed Wire - encircles the player in a small, grey, jagged circle, damaging enemies who come within. If several enemies are within range, only one of them will receive the damage.\
+		* Damage scales properly. Only one enemy receives damage at a time.\
+		* Wire sprite draws correctly. *The circle that depicts radius of effect is missing and has to be added.*\
 * [x][ ]Crowbar
 * [x][ ]Gasoline
 * [x][ ]Headstompers
