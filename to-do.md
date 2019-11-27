@@ -18,7 +18,7 @@ Risk of Slime Rain is a mod, that aims to bring Risk of Rain, a rogue-lite platf
 #### Common items
 ###### Offensive items
 * [x][x]Barbed Wire - encircles the player in a small, grey, jagged circle, damaging enemies who come within. If several enemies are within range, only one of them will receive the damage.\
-Stacking effect:
+**Stacking effect:** \
 		* Damage scales properly. Only one enemy receives damage at a time.\
 		* Wire sprite draws correctly. *The circle that depicts radius of effect is missing and has to be added.*
 * [x][ ]Crowbar -  on hitting an enemy, deal +50% damage to enemies above 80% health.\
